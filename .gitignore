@@ -7,7 +7,7 @@ __pycache__/
 *.db
 .DS_Store
 app/.DS_Store
-
+scripts/
 # C extensions
 *.so
 
